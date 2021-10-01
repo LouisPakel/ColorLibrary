@@ -1,0 +1,22 @@
+{
+  "name": "com.archnet.library.color",
+  "version": "1.0.0",
+  "displayName": "Arch Net Library Color",
+  "description": "Color Library is a link between color and enum or integer.",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Arch",
+    "ArchNet",
+    "Library",
+    "Color",
+    "Custom"
+  ],
+  "author": {
+    "name": "Arch Net",
+    "email": "archnetmodule@gmail.com"
+  },
+     "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  }
+}

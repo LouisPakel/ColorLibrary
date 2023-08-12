@@ -23,7 +23,7 @@ namespace ArchNet.Library.Colors
         public Color _colorValue;
     }
 
-    [CreateAssetMenu(fileName = "NewColorLibrary", menuName = "CasualFantasy/ColorLibrary")]
+    [CreateAssetMenu(fileName = "NewColorLibrary", menuName = "ArchNet/ColorLibrary")]
     public class ColorLibrary : ScriptableObject
     {
         public enum KeyType
